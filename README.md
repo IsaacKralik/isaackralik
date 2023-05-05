@@ -6,7 +6,10 @@ Olá, tudo bem? Meu nome é Isaac Kralik e voce está no meu git 👋😁
 
 - 🤔 Possuo conhecimento prévio em Assembly e C, no decorrer do curso aprendi HTML/CSS/JS e Phyton. Atualmente estou aprendendo JAVA e MySQL e estou gostando bastante de banco de dados, o que me levou a buscar mais conhecimentos em cursos pela Udemy e Alura em MySQL e Phyton.
 
+##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaackralik&count_private=true&show_icons=true&theme=radical)](https://github.com/IsaacKralik)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackralik&count_private=true&layout=compact&langs_count=16&theme=radical)](https://github.com/IsaacKralik)
+ 
+ ##
