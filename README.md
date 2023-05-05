@@ -1,4 +1,4 @@
-Olá, tudo bem? Meu nome é Isaac Kralik e voce está no meu git 👋
+Olá, tudo bem? Meu nome é Isaac Kralik e voce está no meu git 👋😁
 
 - 🔭 Atualmente estou em procura de um emprego na área de ciência da computação, como programador / desenvolvedor ou estágio na área para iniciar no mercado de trabalho.
 
