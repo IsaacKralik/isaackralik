@@ -8,3 +8,5 @@ Olá, tudo bem? Meu nome é Isaac Kralik e voce está no meu git 👋😁
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaackralik&count_private=true&show_icons=true&theme=radical)](https://github.com/IsaacKralik)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackralik&count_private=true&layout=compact&langs_count=16&theme=radical)](https://github.com/IsaacKralik)
