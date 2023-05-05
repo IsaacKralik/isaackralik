@@ -7,4 +7,4 @@ Olá, tudo bem? Meu nome é Isaac Kralik e voce está no meu git 👋
 - 🤔 Possuo conhecimento prévio em Assembly e C, no decorrer do curso aprendi HTML/CSS/JS e a linguagem que mais me chamou atenção para aprofundar foi phyton. Atualmente estou aprendendo JAVA e MySQL e estou gostando bastante da parte de banco de dados, o que me leva a aprofundar em tais conhecimentos.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaackralik&count_private=true&show_icons=true&theme=radical)](https://github.com/IsaacKralik/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaackralik&count_private=true&show_icons=true&theme=radical)](https://github.com/IsaacKralik)
