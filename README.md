@@ -1,36 +1,25 @@
 <h3>Olá, tudo bem? Meu nome é Isaac Kralik e voce está no meu git 👋😁</h3>
 
-- 💼 Sou estagiário de análise de dados com automação (TI) na área de Finanças da empresa Berlitz Brasil, onde desenvolvo em python, MySQL e apresentações através do PowerBI.
-      <a href="https://www.berlitz.com/pt-br">BERLITZ</a>
-  
-- 🎓 Sou formado em Automação Industrial pelo IFSP (Instituto Federal de São Paulo) e estou cursando Ciências da Computação na UNIP ( Universidade Paulista).
+- 💼 Sou estagiário de análise de dados com automação (TI) na área de Finanças da empresa <a href="https://www.berlitz.com/pt-br">Berlitz Brasil</a>, onde desenvolvo em python e MySQL e faço apresentações dos dados através do PowerBI. 
 
-- 🌱 Possuo conhecimento prévio em Assembly e C, no decorrer do curso aprendi HTML/CSS/JS e Phyton. Atualmente estou aprendendo JAVA e MySQL e estou me identificando bastante com banco de dados, o que me levou a buscar mais conhecimentos em cursos pela Udemy e Alura em MySQL e Phyton.
+- 🎓 Sou formado em Automação Industrial pelo <a href="https://spo.ifsp.edu.br/ ">IFSP</a> (Instituto Federal de São Paulo) e estou cursando Ciências da Computação na <a href="https://www.unip.br/">UNIP</a> ( Universidade Paulista).
+
+- 🌱 Possuo conhecimento prévio em Assembly e C, no decorrer dos meus estudos aprendi HTML/CSS/JS e, principalmente, Phyton. Atualmente estou aprendendo JAVA e MySQL e estou me aprofundando, com objetivo de trabalhar 100% com, python e banco de dados, o que me levou a buscar mais conhecimentos em cursos pela Udemy e Alura nessas linguagens.
 
 ##
 
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
-
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Python](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
