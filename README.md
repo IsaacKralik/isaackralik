@@ -45,14 +45,9 @@
 
 <br/>
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaackralik&count_private=true&show_icons=true&theme=radical)](https://github.com/IsaacKralik)
@@ -60,3 +55,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackralik&count_private=true&layout=compact&langs_count=16&theme=radical&layout=compact)](https://github.com/IsaacKralik)
  
  ##
+
+[instagram]: https://www.instagram.com/isaac_kralik/
+[linkedin]: https://www.linkedin.com/in/isaac-kralik-passos-ribeiro-682311194/
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-kralik-passos-ribeiro-682311194/](https://www.linkedin.com/in/isaac-kralik-passos-ribeiro-682311194/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
