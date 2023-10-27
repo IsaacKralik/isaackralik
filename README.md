@@ -38,7 +38,7 @@
 
 <br/>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/IsaacKralik">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**IsaacKralik** github stats"/>
 </a>
 
