@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/IsaacKralik">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**IsaacKralik** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacKralik&show_icons=true&theme=dracula&line_height=27" alt="**IsaacKralik** github stats"/>
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackralik&count_private=true&layout=compact&langs_count=16&theme=radical&layout=compact)](https://github.com/IsaacKralik)
