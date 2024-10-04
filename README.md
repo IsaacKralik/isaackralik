@@ -1,10 +1,10 @@
 <h3>Olá, tudo bem? Meu nome é Isaac Kralik e voce está no meu git 👋😁</h3>
 
-- 💼 Fui estagiário de análise de dados com automação (TI) na área de Finanças da empresa <a href="https://www.berlitz.com/pt-br">Berlitz Brasil</a>. Hoje sou Analista de dados Jr, onde desenvolvo em python, MySQL e faço apresentações dos dados através do PowerBI. 
+- 💼 Fui estagiário de análise de dados com automação (TI) na área de Finanças da empresa <a href="https://www.berlitz.com/pt-br">Berlitz Brasil</a>. Hoje atuo como Analista de dados Jr na mesma empresa, onde desenvolvo em python, MySQL e faço apresentações dos dados através do PowerBI. 
 
 - 🎓 Sou formado em Automação Industrial pelo <a href="https://spo.ifsp.edu.br/ ">IFSP</a> (Instituto Federal de São Paulo) e estou cursando Ciências da Computação na <a href="https://www.unip.br/">UNIP</a> ( Universidade Paulista).
 
-- 🌱 Possuo conhecimento prévio em Assembly e C, no decorrer dos meus estudos aprendi HTML/CSS/JS e, principalmente, Phyton. Atualmente estou aprendendo JAVA e MySQL e estou me aprofundando, com objetivo de trabalhar 100% com python e banco de dados, em Análise de Dados / Data Science, o que me levou a buscar mais conhecimentos em cursos pela Udemy e Alura nessas linguagens.
+- 🌱 Possuo conhecimento prévio em Assembly e C, no decorrer dos meus estudos aprendi HTML/CSS/JS e, principalmente, Phyton. Atualmente estou aprendendo JAVA e MySQL e estou me aprofundando, com objetivo de trabalhar 100% com python e banco de dados, em Análise de Dados / Data Science, o que me levou a buscar mais conhecimentos em cursos certificadores da Google e IMB em análise e ciência de dados.
 
 ##
 
